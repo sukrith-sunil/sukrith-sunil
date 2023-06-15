@@ -1,7 +1,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"/>, I'm Sukrith Sunil</h1>
 <!--<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=A+Full+stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" /></a></h1>-->
-<h3 align="center">I'm Currently pursuing my undergraduation in Electronics and Computer Engineering from <br>AMRITA VISHWA VIDYAPEETHAM, Amritapuri.</h3>
+<h3 align="center">Innovative Product Designer & Tech Enthusiast </h3>
+<h3 align="center">As a second year B.Tech student of Electronics and Computer Science Engineering at Amrita School of Engineering </h3>
 
 <!--<img width="45%"  align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />-->
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
