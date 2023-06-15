@@ -20,6 +20,9 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=sukrith-sunil&count_private=true&show_icons=true&theme=radical" />
     </td>
+     <td>
+        <img height=210px src="https://github-readme-streak-stats.herokuapp.com/?user=sukrith-sunil&theme=dark&hide_border=false"/>
+    </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukrith-sunil&layout=compact&theme=radical" />
     </td>
