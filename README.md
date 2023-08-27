@@ -17,6 +17,8 @@ I'm that friend who listens and cares 👂🤗, and I believe in finding solutio
 
 Movies like 'Silent Voice' and 'Your Name' really speak to me 🎬. They show how emotions are this wild ride 🎢, and that redemption is like a second chance waiting for us ⏳.
 
+In school, they say I have a way with teachers 📚👩‍🏫. I've even earned the title of 'Teacher's Pet' by befriending even the most unlikely ones. It's a knack that my friends tease me about.
+
 And when I need to recharge ⚡, you'll find me in a quiet spot 🌿🌧️, where I can just breathe in the beauty of the world – nature's song 🍃🎵, rain's scent 🌧️🌹, and a breathtaking view that reminds me how awesome life is 🌅.
 
 <!--<img width="45%"  align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />-->
