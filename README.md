@@ -8,7 +8,7 @@
 <p align = "center">
 Committed to Electronics and Computer Engineering at Amrita School of Engineering, Amritapuri. Besides academics, I've achieved a 1st Dan Black Belt in karate, reflecting my discipline and tenacity. A Machine Learning enthusiast, I'm backed by a solid certification. My GitHub journey showcases projects highlighting both problem-solving skills and a passion for growth.</p>
 <p align = "center">
-Unifying theory and practice fuels my enthusiasm. But my focus stretches further—technology's potential for positive change drives me. The upcoming 2-month Aican Automate internship has my full attention.</p>
+Unifying theory and practice fuels my enthusiasm. But my focus stretches further—technology's potential for positive change drives me. </p>
 <p align = "center">
 Amid these ambitions, a major goal stands out—I aim to become a professor, blending industry experience with knowledge to guide future minds toward brilliance.</p>
 
