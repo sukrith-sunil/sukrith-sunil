@@ -3,24 +3,33 @@
 <!--<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=A+Full+stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" /></a></h1>-->
 <h3 align="center">Innovative Product Designer & Tech Enthusiast </h3>
 <h3 align="center">As a second year B.Tech student of Electronics and Computer Science Engineering at Amrita School of Engineering </h3>
+<p align = "center">
+ Hello there,</p>
+<p align = "center">
+Committed to Electronics and Computer Engineering at Amrita School of Engineering, Amritapuri. Besides academics, I've achieved a 1st Dan Black Belt in karate, reflecting my discipline and tenacity. A Machine Learning enthusiast, I'm backed by a solid certification. My GitHub journey showcases projects highlighting both problem-solving skills and a passion for growth.</p>
+<p align = "center">
+Unifying theory and practice fuels my enthusiasm. But my focus stretches further—technology's potential for positive change drives me. The upcoming 2-month Aican Automate internship has my full attention.</p>
+<p align = "center">
+Amid these ambitions, a major goal stands out—I aim to become a professor, blending industry experience with knowledge to guide future minds toward brilliance.</p>
 
 <br />
 
 <h1 align="center"> About Me </h1>
+<p align = "center">
 Amid the pages of fiction and manga 📚🎨, the beat of music 🎵🎶, and the drama of life 🎭, I'm on a quest to find the real me. Moments with my closest friends and family light up my world 💫, bringing a kind of harmony that's hard to describe.
-
+<br />
 Empathy ❤️, loyalty 🤝, and being there for others are my guiding stars ✨. When someone trusts me with their secrets 🤐, it's like a secret superpower that makes me genuinely happy 😊. I want to be that person who brings comfort and maybe even a little bit of advice 🗣️.
-
-My dreams? Well, picture this 📸: a wild adventure with my best buddies 🌄, without worrying the folks back home 👋. Exploring and laughing all the way 😄.
-
-I'm that friend who listens and cares 👂🤗, and I believe in finding solutions together 👥. Though I sometimes get stuck in the "I'll do it later" zone ⏰😅, challenges don't scare me. I list them, laugh about them, and then dive in 💪.
-
-Movies like 'Silent Voice' and 'Your Name' really speak to me 🎬. They show how emotions are this wild ride 🎢, and that redemption is like a second chance waiting for us ⏳.
-
-In school, they say I have a way with teachers 📚👩‍🏫. I've even earned the title of 'Teacher's Pet' by befriending even the most unlikely ones. It's a knack that my friends tease me about.
-
+<p align = "center">
+My dreams? Well, picture this 📸: a wild adventure with my best buddies 🌄, without worrying the folks back home 👋. Exploring and laughing all the way 😄.</p>
+<p align = "center">
+I'm that friend who listens and cares 👂🤗, and I believe in finding solutions together 👥. Though I sometimes get stuck in the "I'll do it later" zone ⏰😅, challenges don't scare me. I list them, laugh about them, and then dive in 💪.</p>
+<p align = "center">
+Movies like 'Silent Voice' and 'Your Name' really speak to me 🎬. They show how emotions are this wild ride 🎢, and that redemption is like a second chance waiting for us ⏳.</p>
+<p align = "center">
+In school, they say I have a way with teachers 📚👩‍🏫. I've even earned the title of 'Teacher's Pet' by befriending even the most unlikely ones. It's a knack that my friends tease me about.</p>
+<p align = "center">
 And when I need to recharge ⚡, you'll find me in a quiet spot 🌿🌧️, where I can just breathe in the beauty of the world – nature's song 🍃🎵, rain's scent 🌧️🌹, and a breathtaking view that reminds me how awesome life is 🌅.
-
+</p>
 <!--<img width="45%"  align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />-->
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
