@@ -1,18 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"/>, I'm Sukrith Sunil</h1>
-<!--<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=A+Full+stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" /></a></h1>-->
-<h3 align="center">Innovative Product Designer & Tech Enthusiast </h3>
-<h3 align="center">As a final year B.Tech student of Electronics and Computer Science Engineering at Amrita School of Engineering </h3>
-<p align = "center">
- Hello there,</p>
-<p align = "center">
-Committed to Electronics and Computer Engineering at Amrita School of Engineering, Amritapuri. Besides academics, I've achieved a 1st Dan Black Belt in karate, reflecting my discipline and tenacity. A Machine Learning enthusiast, I'm backed by a solid certification. My GitHub journey showcases projects highlighting both problem-solving skills and a passion for growth.</p>
-<p align = "center">
-Unifying theory and practice fuels my enthusiasm. But my focus stretches further—technology's potential for positive change drives me. </p>
-<p align = "center">
-Amid these ambitions, a major goal stands out—I aim to become a professor, blending industry experience with knowledge to guide future minds toward brilliance.</p>
-
-<br />
+<p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></p> <h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"/>, I'm Sukrith Sunil</h1> <h3 align="center">Researcher | Machine Learning & Embedded Systems Enthusiast</h3> <h3 align="center">Final-year B.Tech student in Electronics and Computer Engineering at Amrita School of Engineering</h3> <p align="center">Hello there,</p> <p align="center">I am a passionate researcher specializing in machine learning, embedded systems, and wireless sensor networks. My work spans across AI-driven robotics, defect detection, and MEMS-based sensor analysis. With hands-on experience in deep learning, data analytics, and signal processing, I am committed to bridging the gap between research and real-world applications.</p> <p align="center">My academic journey has been complemented by multiple research publications and internships in machine learning and robotics, where I have contributed to AI-enabled defect detection, bioacoustic analysis, and smart sensing technologies. As the Student President of the Electronics and Communication Association, I have also led technical initiatives, fostering innovation and collaboration.</p> <p align="center">Beyond research, I hold a 1st Dan Black Belt in Karate, a testament to my discipline and resilience. My ultimate aspiration is to become a professor, integrating research and education to mentor the next generation of engineers and scientists, shaping the future of technology.</p> <br />
 
 <h1 align="center"> About Me </h1>
 <p align = "center">
